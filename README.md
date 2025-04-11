@@ -3,15 +3,12 @@
 ## Reports
 - **Task 1**: https://drive.google.com/file/d/1RjIdYPTE50OI4ygQuw2VAKQZYm-pcHeZ/view?usp=sharing
 - **Task 2**: https://drive.google.com/file/d/1AaFMXAIN_6BbgZWGHxbF8a2OPSFAyPCn/view?usp=sharing
-- **Task 3**: https://drive.google.com/file/d/1LsKITDNe0T9Dd_85ZHpCteJZEJ2GhAsc/view?usp=sharing
 
 ## Overview
 This project contains automation scripts to perform the following tasks:
 
 1. Automate a web form submission at [Digital Unite Practice Webform](https://www.digitalunite.com/practice-webform-learners).
 2. Automate a guest registration form submission at [WP Everest Guest Registration Form](https://demo.wpeverest.com/user-registration/guest-registration-form/).
-3. Scrape table data from the Dhaka Stock Exchange website ([DSE Latest Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)).
-
 ---
 
 ## Automation Details
@@ -41,12 +38,6 @@ This project contains automation scripts to perform the following tasks:
   2. Click the submit button.
   3. Assert that the registration is successful.
 
-### Task 3: Scrape Table Data from Dhaka Stock Exchange
-- **URL**: https://dsebd.org/latest_share_price_scroll_by_value.php
-- **Steps for Automation**:
-  1. Scrape all table data.
-  2. Print all cell values.
-  3. Store the values in a text file.
 
 ## Tools & Technologies
 
